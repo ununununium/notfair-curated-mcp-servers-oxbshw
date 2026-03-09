@@ -83,6 +83,7 @@ These sources are licensed under the MIT License or similar permissive licenses 
 | **Algomo** – [pipedream](https://mcp.pipedream.com/app/algomo) | Multilingual customer service via generative AI. | Pipedream |
 | **All‑Images.ai** – [pipedream](https://mcp.pipedream.com/app/all_images_ai) | Generate personalized, royalty‑free visuals for projects. | Pipedream |
 
+| **BGPT MCP** – [github](https://github.com/connerlambden/bgpt-mcp) | Search scientific papers with full‑text experimental data via hosted MCP server. | awesome‑mcp‑servers |
 ## Finance & Crypto
 
 | Server | Description | Source |
